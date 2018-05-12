@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39158'
     url: http://www.gutenberg.org/2009/agents/39158
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37968#The-Nut-CulturistUnited-States
 gutenberg_issued: '2011-11-10'
 gutenberg_type: Text
 identifiers:
