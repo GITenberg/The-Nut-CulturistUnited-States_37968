@@ -1,0 +1,32 @@
+_repo: The-Nut-CulturistUnited-States_37968
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fuller, Andrew S. (Andrew Samuel)
+    alias: Fuller, Andrew Samuel
+    birthdate: 1828
+    deathdate: 1896
+    gutenberg_agent_id: '39158'
+    url: http://www.gutenberg.org/2009/agents/39158
+description: ''
+gutenberg_issued: '2011-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37968'
+  lccn: '04010635'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nuts'
+- !lcc 'SB'
+tableOfContents: 'Introduction -- The almond -- The beechnut -- Castanopsis -- The
+  chestnut -- Filbert or hazelnut -- Hickory nuts -- The walnut -- Miscellaneous nuts:
+  edible and otherwise.'
+title: "The Nut Culturist\r\nA Treatise on Propogation, Planting, and Cultivation\
+  \ of Nut Bearing Trees and Shrubs Adapted to the Climate of the United States"
+url: http://www.gutenberg.org/ebooks/37968
