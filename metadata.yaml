@@ -26,6 +26,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Nuts'
 - !lcc 'SB'
+- GITenberg
 tableOfContents: 'Introduction -- The almond -- The beechnut -- Castanopsis -- The
   chestnut -- Filbert or hazelnut -- Hickory nuts -- The walnut -- Miscellaneous nuts:
   edible and otherwise.'
